@@ -1,4 +1,4 @@
-# Trading Environment and Agent Training
+# DQN RL Trader Agent
 
 This repository contains codes and documents of my AI project about an application of reinforcement learning for trading. The AI trader uses a very simplified represenation of the stock market (state variables) and is trained to achieve a trading strategy that maximizes profit based on the devised reward formula.
 

@@ -60,6 +60,11 @@ The codes provide functionalities for training and testing trading agents in a s
 - Compares the agent's performance against several baseline trading strategies (RSI, CCI, Donchian, Return).
 - Visualizes the trading logs and benchmark comparisons.
 
+  ## Results
+  A sample of the features, comprised of indicator signals, used to train the model is illustrated below.
+  ![Technical indicator signals used as features for training the DQN-RL model](./figures/spy_signals.png)
+
+
 ## Notes
 
 - Adjust hyperparameters and environment settings based on specific requirements and characteristics of the trading scenario.

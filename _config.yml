@@ -1,9 +1,9 @@
-title: Your Site Title
-description: A brief description of your site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+title: DQN RL Trader
+description: This repository contains codes and documents of my AI project about an application of reinforcement learning for trading. The AI trader uses a very simplified represenation of the stock market (state variables) and is trained to achieve a trading strategy that maximizes profit based on the devised reward formula.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://yourusername.github.io" # the base hostname & protocol for your site
 
 theme: jekyll-theme-minimal # You can change this to any Jekyll theme you prefer
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown

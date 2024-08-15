@@ -65,7 +65,7 @@ The codes provide functionalities for training and testing trading agents in a s
   ![Technical indicator signals used as features for training the DQN-RL model](./figures/spy_signals.png)
 
   The performance of the trained trading agent vs the performance of the individual technical indicator signals is provided below.
-  ![The performance of the trained trading agent vs the performance of the individual technical indicator signals](./figures/train_portfolio_vs_ep.pdf)
+  ![The performance of the trained trading agent vs the performance of the individual technical indicator signals](./figures/dqn_rl_performance.png)
 
 
 ## Notes
